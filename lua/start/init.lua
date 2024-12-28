@@ -34,7 +34,12 @@ M['default_ascii_1'] = [[
  | . ` |/ _ \/ _ \ \/ /   | | | |\/| |
  | |\  |  __/ (_) \  /   _| |_| |  | |
  |_| \_|\___|\___/ \/   |_____|_|  |_|
-
+   ctrl-y Moves srceen up one line
+   ctrl-e moves srcreen done one line
+   ctrl-u moxes cursor & screen up 1/2 page
+   ctrl-d moves cursor & screen down 1/2 page
+   ctrl-b screen up
+   ctrl-f srceen down
 ]]
 
 M['default_ascii_2'] = [[
