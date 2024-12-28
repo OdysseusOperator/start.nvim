@@ -1,3 +1,5 @@
+Ignore themes, they are not even in the right order just edit the inne working with the text.
+
 # Start.nvim
 Start.nvim helps you create a custom start screen for your neovim
 
